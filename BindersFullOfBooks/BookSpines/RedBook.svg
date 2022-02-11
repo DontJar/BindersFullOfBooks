@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36.717083mm"
+   height="203.8362mm"
+   viewBox="0 0 36.717083 203.8362"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="RedBook.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.193121,-42.872463)">
+    <g
+       id="g3244"
+       style="fill:#800000"
+       transform="translate(-232.18576,11.739729)">
+      <path
+         d="m 317.5103,220.20436 -0.13054,9.04712 c -0.0259,1.41089 0.52136,2.77201 1.51844,3.77832 0.99707,1.00629 2.36034,1.57293 3.78317,1.57108 l 25.89143,0.36751 c 1.41007,0.02 2.76982,-0.51608 3.78148,-1.49126 1.01176,-0.97517 1.59096,-2.30793 1.61114,-3.70637 l 0.13054,-9.04712 z"
+         id="path889-9"
+         style="fill:#800000;stroke-width:0.354228" />
+      <g
+         id="g3234"
+         style="fill:#800000">
+        <g
+           id="g1457"
+           transform="matrix(0.35277778,0,0,0.35277778,125.37217,28.819529)"
+           style="fill:#800000">
+          <path
+             d="M 544.64091,22.680153 V 536.48015 h 103.71 V 22.680153 c 0,-21.4105921 -103.71,-21.5839964 -103.71,0 z m 61.602,411.659997 h -0.004 c 0,5.2852 -4.2852,9.5742 -9.5742,9.5742 -5.2891,0 -9.5781,-4.2891 -9.5781,-9.5742 v -309.46 c 0,-5.2891 4.2891,-9.5781 9.5781,-9.5781 5.2891,0 9.5742,4.2891 9.5742,9.5781 z"
+             id="path1375"
+             sodipodi:nodetypes="sccssccsssscc"
+             style="fill:#800000" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
